@@ -1,0 +1,21 @@
+.cont{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.sh{
+    justify-content: center;
+    text-align: center;
+}
+.cont li{
+    list-style: none
+}
+.item-list{
+    justify-content: center;
+    
+}
+
+.items{
+    flex-wrap: wrap;
+    text-align: center;
+}
